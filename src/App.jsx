@@ -71,7 +71,7 @@ function App() {
   return (
     <div className="App">
       <nav>
-        <h1>Søndeliord på fem bokstaver</h1>
+        <h1>Ord og uttrykk fra Søndeled og omegn</h1>
       </nav>
       <AppContext.Provider
         value={{

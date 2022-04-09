@@ -19,7 +19,7 @@ knode
 graud
 tappe
 teila
-gyslig
+gysli
 bosse
 pibor
 tapto
@@ -32,7 +32,6 @@ gales
 naude
 slæde
 pødde
-tyding
 hærli
 fytte
 bruka
@@ -100,3 +99,13 @@ ikkje
 rekke
 sladå
 temli
+gaern
+rolle
+rondt
+jaggu
+totte
+natta
+kalli
+jaggu
+degen
+desen
